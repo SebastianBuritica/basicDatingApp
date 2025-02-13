@@ -55,21 +55,6 @@ npm run android
 yarn android
 ```
 
-## 🧰 Project Structure
-
-```
-datingapp1/
-├── src/
-│   ├── components/        # Reusable UI components
-│   ├── screens/          # Application screens
-│   ├── navigation/       # Navigation configuration
-│   ├── services/        # API services
-│   ├── utils/           # Helper functions
-│   └── types/           # TypeScript type definitions
-├── assets/              # Images, fonts, etc.
-└── App.tsx             # Application entry point
-```
-
 ## ✨ Features
 
 - User authentication
@@ -84,13 +69,6 @@ datingapp1/
 
 This project uses ESLint and Prettier for code formatting. To maintain code quality:
 
-```bash
-# Run linter
-npm run lint
-
-# Format code
-npm run format
-```
 
 ### TypeScript
 
@@ -116,6 +94,4 @@ The project is configured with TypeScript for type safety. Ensure all new files 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🛟 Support
-
-For support, email [your-email@example.com] or open an issue in the repository.
+https://github.com/user-attachments/assets/a9e11fda-d6fe-44dc-b152-1e2342b41254
